@@ -50,7 +50,7 @@ A virtualized lab built in Oracle VirtualBox for hands-on cybersecurity practice
 3. Add a second **NAT** adapter to Kali only when it needs internet for updates.
 4. Verify connectivity with `ping` between machines.
 
-## Note: Find the Screenshots of the steps on 
+## Note: Find the Screenshots of the steps on Kali Setup
 
 ## Best Practices
 - Take a **snapshot** of each VM after setup (clean baseline).
